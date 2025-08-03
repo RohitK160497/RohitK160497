@@ -2,7 +2,7 @@
 
 🎓 M.Eng. in Engineering Management | 📊 Data & Business Analytics | 💡 SaaS, FP&A, and BizOps  
 📍 Jersey City, NJ | ✉️ khilare.rohit@icloud.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/rohitkhilare) • [GitHub](https://github.com/RohitK160497)
+🔗 [LinkedIn](https://www.linkedin.com/in/rohitkhilare) 
 
 ---
 
@@ -15,15 +15,19 @@ I recently graduated from Stevens Institute of Technology with a Master’s in E
 
 > TL;DR: I love transforming messy data into clean, actionable stories that drive decisions.
 
+## 😄 Fun Fact
+I love building dashboards for literally anything — from compliance reporting to fantasy football.  
+Ask me about the time I cut a reporting process by 6 hours a week using just a few lines of Python and a clean Power BI dashboard.
+
 ---
 
-## 🧠 What I Work With
+## 🧠 What I know and what i did?
 
 **💾 Data & Analysis**  
 `Python` | `SQL` | `Excel (Advanced)` | `R` | `SAS`
 
 **📊 Dashboards & BI**  
-`Power BI` | `Tableau` | `Qlik Sense` | `Looker` | `Anaplan` |  `Apptio`
+`Power BI` | `Tableau` | `Qlik Sense` | `Looker` |  `Apptio`
 
 **☁️ Cloud & Platforms**  
 `Microsoft Azure` | `Salesforce` | `Anaplan` | `ETL Pipelines`
@@ -38,7 +42,7 @@ I recently graduated from Stevens Institute of Technology with a Master’s in E
 ### 🧩 [Customer Onboarding Optimization](https://github.com/RohitK160497/Customer-Onboarding-Process-Optimization-Revenue-Impact-Forecast)  
 Prevented $1.18M in potential churn by simulating a SaaS onboarding funnel using Python + SQL — and got onboarding time down by 1.8 days!
 
-### 📊 [Sentiment Analysis of Game Feedback](https://github.com/RohitK160497/Customer-Onboarding-Process-Optimization-Revenue-Impact-Forecast)  
+### 📊 [Sentiment Analysis of Game Feedback](https://github.com/RohitK160497/Games-Feedback-Analysis-using-Python-and-Power-BI)  
 Analyzed survey text with TextBlob & Python, then visualized results in Power BI to uncover UX blockers. Result? A 31% bump in satisfaction.
 
 ### 📈 [Google Stock Trends Dashboard](https://github.com/RohitK160497/A-Decade-of-Google-Stock-Performance-Price-Volatility-and-Volume-Trends-2015-2024-)  
@@ -57,31 +61,6 @@ If you're building something that involves:
 - Excel dashboards that *don’t* break under pressure...
 
 Let’s talk! I’m actively seeking full-time roles in analytics, finance, or product strategy.
-
----
-
-## 🎓 Education
-
-**Stevens Institute of Technology** – *M.Eng. in Engineering Management (2025)*  
-Focus: Data Informatics & Visualization | GPA: 3.75 / 4.0
-
-**University of Mumbai** – *B.E. in Electronics & Telecommunication (2019)*  
-GPA: 3.57 / 4.0
-
----
-
-## 😄 Fun Fact
-
-I love building dashboards for literally anything — from compliance reporting to fantasy football.  
-Ask me about the time I cut a reporting process by 6 hours a week using just a few lines of Python and a clean Power BI dashboard.
-
----
-
-## 📬 Reach Out
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/rohitkhilare)  
-- 💌 khilare.rohit@icloud.com  
-- 🧠 [GitHub](https://github.com/RohitK160497)
 
 ---
 
